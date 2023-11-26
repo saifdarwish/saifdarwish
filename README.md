@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saifdarwish
+# - 👋 Hi, I’m @saifdarwish
 - 👀 I’m interested in gym, anime and programming
 - 🌱 I’m currently learning C++,java
 
