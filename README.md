@@ -1,6 +1,6 @@
-# - 👋 Hi, I’m @saifdarwish
-# - 👀 I’m interested in gym, anime and programming
-# - 🌱 I’m currently learning C++, Java
+# - My name is Saif Darwish
+# - Currently I am a Student at University of Vienna
+# - Programming languages: C++, Java
 
 <!---
 saifdarwish/saifdarwish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
