@@ -1,5 +1,5 @@
 # - My name is Saif Darwish
-# - Currently I am a Student at University of Vienna
+# - Currently I am a student at University of Vienna
 # - Programming languages: C++, Java
 
 <!---
